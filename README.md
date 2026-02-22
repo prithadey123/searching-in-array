@@ -4,7 +4,6 @@ This project demonstrates the implementation of the **Linear Search algorithm** 
 Linear Search is a simple searching technique where each element of the array is checked sequentially until the desired element is found or the list ends.
 
 ---
-
  Source Code
 
 ```c
